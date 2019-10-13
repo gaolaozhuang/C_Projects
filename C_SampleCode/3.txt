@@ -1,0 +1,105 @@
+Neovim was again accepted into the Google Summer of Code program. 
+View our page on the GSoC website for details. Our ideas list runneth over! 
+You’re also welcome to propose other ideas in chat or on the ticket tracker.
+
+Results from last year
+In our first GSoC ever, we mentored two students who both completed their projects.
+
+Brock Mammen implemented a C# client for Nvim, and even went further with a Nvim 
+extension for Visual Studio! He also made significant improvements to the build system, 
+particularly for Windows/MSVC.
+
+The multigrid project by Utkarsh Maheshwari involved low-level changes to the UI subsystem:
+
+breaks up the screen grid in per-window grids, 
+allows UIs to set different sizes for each window grid and receive grid based events.
+
+The final product was integrated by mentor Björn Linse into the Nvim master branch,
+ providing the foundation for the floating windows feature.
+
+This demo shows the feature being used in a popular plugin to reveal
+ documentation with completion results:
+ Neovim was again accepted into the Google Summer of Code program. 
+View our page on the GSoC website for details. Our ideas list runneth over! 
+You’re also welcome to propose other ideas in chat or on the ticket tracker.
+
+Results from last year
+In our first GSoC ever, we mentored two students who both completed their projects.
+
+Brock Mammen implemented a C# client for Nvim, and even went further with a Nvim 
+extension for Visual Studio! He also made significant improvements to the build system, 
+particularly for Windows/MSVC.
+
+The multigrid project by Utkarsh Maheshwari involved low-level changes to the UI subsystem:
+
+breaks up the screen grid in per-window grids, 
+allows UIs to set different sizes for each window grid and receive grid based events.
+
+The final product was integrated by mentor Björn Linse into the Nvim master branch,
+ providing the foundation for the floating windows feature.
+
+This demo shows the feature being used in a popular plugin to reveal
+ documentation with completion results:
+ Neovim was again accepted into the Google Summer of Code program. 
+View our page on the GSoC website for details. Our ideas list runneth over! 
+You’re also welcome to propose other ideas in chat or on the ticket tracker.
+
+Results from last year
+In our first GSoC ever, we mentored two students who both completed their projects.
+
+Brock Mammen implemented a C# client for Nvim, and even went further with a Nvim 
+extension for Visual Studio! He also made significant improvements to the build system, 
+particularly for Windows/MSVC.
+
+The multigrid project by Utkarsh Maheshwari involved low-level changes to the UI subsystem:
+
+breaks up the screen grid in per-window grids, 
+allows UIs to set different sizes for each window grid and receive grid based events.
+
+The final product was integrated by mentor Björn Linse into the Nvim master branch,
+ providing the foundation for the floating windows feature.
+
+This demo shows the feature being used in a popular plugin to reveal
+ documentation with completion results:
+ Neovim was again accepted into the Google Summer of Code program. 
+View our page on the GSoC website for details. Our ideas list runneth over! 
+You’re also welcome to propose other ideas in chat or on the ticket tracker.
+
+Results from last year
+In our first GSoC ever, we mentored two students who both completed their projects.
+
+Brock Mammen implemented a C# client for Nvim, and even went further with a Nvim 
+extension for Visual Studio! He also made significant improvements to the build system, 
+particularly for Windows/MSVC.
+
+The multigrid project by Utkarsh Maheshwari involved low-level changes to the UI subsystem:
+
+breaks up the screen grid in per-window grids, 
+allows UIs to set different sizes for each window grid and receive grid based events.
+
+The final product was integrated by mentor Björn Linse into the Nvim master branch,
+ providing the foundation for the floating windows feature.
+
+This demo shows the feature being used in a popular plugin to reveal
+ documentation with completion results:
+ Neovim was again accepted into the Google Summer of Code program. 
+View our page on the GSoC website for details. Our ideas list runneth over! 
+You’re also welcome to propose other ideas in chat or on the ticket tracker.
+
+Results from last year
+In our first GSoC ever, we mentored two students who both completed their projects.
+
+Brock Mammen implemented a C# client for Nvim, and even went further with a Nvim 
+extension for Visual Studio! He also made significant improvements to the build system, 
+particularly for Windows/MSVC.
+
+The multigrid project by Utkarsh Maheshwari involved low-level changes to the UI subsystem:
+
+breaks up the screen grid in per-window grids, 
+allows UIs to set different sizes for each window grid and receive grid based events.
+
+The final product was integrated by mentor Björn Linse into the Nvim master branch,
+ providing the foundation for the floating windows feature.
+
+This demo shows the feature being used in a popular plugin to reveal
+ documentation with completion results:

@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "D:/MinGW/mingw64/bin/x86_64-w64-mingw32-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/MinGW/mingw64/x86_64-w64-mingw32/include",
+                "D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                "D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1",
+                "D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "__GNUC__=8",
+                "__cdecl=__attribute__((__cdecl__))"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "D:/MinGW/mingw64/x86_64-w64-mingw32/include",
+                    "D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                    "D:/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tr1"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "compilerArgs": []
+        },
+        {
+            "name": "C_Project",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:/MinGW/mingw64/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
