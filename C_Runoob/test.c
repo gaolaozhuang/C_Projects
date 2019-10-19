@@ -1,8 +1,12 @@
 #include <stdio.h>
-#include <stdio.h>
-
+//定义两个全局变量
+int x=1;
+int y=2;
+int addtwonum();
 int main(void)
 {
-    printf("测试开发环境\n");
-    return 0;
+    int result;
+    result = addtwonum();
+    printf("result的值为：%d\n",result);
+    return 0; 
 }

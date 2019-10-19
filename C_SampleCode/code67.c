@@ -1,6 +1,5 @@
-#include<stdio.h>
-#include<stdlib.h>
- 
+#include<stdio.h>-1
+#include<stdlib.h> 
 void fun(int *s,int n)
 {
     int i;
@@ -43,7 +42,7 @@ int main()
 {
     int s[20];
     int i,n;
-    printf("设置数组长度(<20):");
+     rintf("设置数组长度(<20):");
     scanf("%d",&n);
     printf("输入 %d 个元素:\n",n);
     for(i=0;i<n;i++)

@@ -1,4 +1,4 @@
-Neovim was again accepted into the Google Summer of Code program. 
+Nneovim was again accepted into the Google Summer of Code program. 
 View our page on the GSoC website for details. Our ideas list runneth over! 
 You’re also welcome to propose other ideas in chat or on the ticket tracker.
 

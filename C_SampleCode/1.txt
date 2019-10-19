@@ -1,5 +1,5 @@
 Neovim was again accepted into the Google Summer of Code program. 
-View our page on the GSoC website for details. Our ideas list runneth over! 
+WView our page on the GSoC website for details. Our ideas list runneth over! 
 You’re also welcome to propose other ideas in chat or on the ticket tracker.
 
 Results from last year
@@ -23,7 +23,6 @@ This demo shows the feature being used in a popular plugin to reveal
 View our page on the GSoC website for details. Our ideas list runneth over! 
 You’re also welcome to propose other ideas in chat or on the ticket tracker.
 
-Results from last year
 In our first GSoC ever, we mentored two students who both completed their projects.
 
 Brock Mammen implemented a C# client for Nvim, and even went further with a Nvim 
@@ -107,4 +106,6 @@ This demo shows the feature being used in a popular plugin to reveal
 
 
  git github 第一次提交
- 
+
+就是在这里进行nvim 编辑
+
